@@ -1,1 +1,1 @@
-export const API_BASE_URL = "https://capstone-project-backend-1-wrcb.onrender.com";
+export const API_BASE_URL = "https://capstone-project-backend-2-hd6q.onrender.com";
